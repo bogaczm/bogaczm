@@ -1,6 +1,6 @@
 # Hi there 👋
 ## Leetcode
-![LeetCode Stats](https://leetcode.card.workers.dev/mbogacz?theme=auto&font=&extension=null)
+<p style="text-align: center;">![LeetCode Stats](https://leetcode.card.workers.dev/mbogacz?theme=auto&font=&extension=null)</p>
 <!--
 **bogaczm/bogaczm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
